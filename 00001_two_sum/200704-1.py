@@ -15,3 +15,7 @@ class Solution:
             else:
                 return [temp_dict[nums[i]],i]
 # @lc code=end
+
+# 29/29 cases passed (60 ms)
+# Your runtime beats 81.71 % of python3 submissions
+# Your memory usage beats 5.48 % of python3 submissions (14.9 MB)
