@@ -31,7 +31,6 @@ class Solution:
 
         sum_result = num_1 + num_2
         sum_str = str(sum_result)[::-1]
-        print(sum_str)
 
         new_list_node = ListNode(int(sum_str[0]))
         temp_node = new_list_node
