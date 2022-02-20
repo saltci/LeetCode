@@ -9,4 +9,6 @@
 | 5 | 中等 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [200920-2.py](https://github.com/saltci/LeetCode/blob/master/00005_longest_palindromic_substring/200920-2.py) | 64ms | 13.4MB | 99.25% | 74.07% |  |
 | 7 | 简单 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [200704-3.py](https://github.com/saltci/LeetCode/blob/master/00007_reverse_integer/200704-3.py) | 48ms | 13.6MB | 44.87% |  |  |
 | 9 | 简单 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [200704-3.py](https://github.com/saltci/LeetCode/blob/master/00009_palindrome_number/200704-3.py) | 88ms | 13.7MB | 60.77% |  |  |
+| 15 | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [Python解法](https://github.com/saltci/LeetCode/blob/master/00015_3sum/15.三数之和.py) | 500ms | 17.8MB | 88.82% | 30% | |
 | 704 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/)| [704-20210601-1.go](https://github.com/saltci/LeetCode/blob/master/00704_binary-search/golang/704-20210601-1.go) | 40ms | 6.7MB | 89.98% | 62.13% |  |
+
